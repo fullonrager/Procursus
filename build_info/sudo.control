@@ -6,6 +6,6 @@ Version: @DEB_SUDO_V@
 Depends: gettext
 Section: Administration
 Priority: required
-Description: temporarily assume root priviledges
+Description: Temporarily assume root privileges
 Name: Sudo
 Tag: purpose::console, role::hacker
